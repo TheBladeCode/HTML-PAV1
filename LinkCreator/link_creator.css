@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(website-background.jpg);
+}
+
+body h1 {
+    font-size: 60px;
+}
+
+body p {
+    font-size: 20px;
+}
+
+body a {
+    text-decoration: none;
+}
